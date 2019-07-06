@@ -6,9 +6,12 @@
 }
 
 body {
-  background-color: #f5e1da;
+  background-color: #e3fdfd;
+  color: #00adb5;
 }
-
+h1,h2,h3,h4,h5,h6{
+  color: #00adb5;
+}
 hr {
  /* height: 10px;
   border: 0;

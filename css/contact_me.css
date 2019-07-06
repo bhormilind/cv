@@ -2,10 +2,14 @@ html, body {height:100%;}
 html {display:table; width:100%;}
 
 body{
-  background-color: #f5e1da;
+  background-color: #e3fdfd;
   display:table-cell; text-align:center; vertical-align:middle;
+  color: #00adb5;
 }
 
+h1,h2,h3,h4,h5,h6{
+  color: #00adb5;
+}
 hr {
   border: dotted orange;
   border-width: 0 0 7px;
