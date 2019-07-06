@@ -8,3 +8,16 @@
 body {
   background-color: #f5e1da;
 }
+
+hr {
+ /* height: 10px;
+  border: 0;
+  box-shadow: 0 10px 10px -10px #8c8b8b inset;*/
+  /*background-color: #f5e1da;
+  border-top: 2px dashed #8c8b8b;
+  */
+
+  border: dotted orange;
+  border-width: 0 0 7px;
+  width: 20%;
+}

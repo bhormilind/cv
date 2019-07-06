@@ -1,3 +1,16 @@
+html, body {height:100%;}
+html {display:table; width:100%;}
+
 body{
   background-color: #f5e1da;
+  display:table-cell; text-align:center; vertical-align:middle;
 }
+
+hr {
+  border: dotted orange;
+  border-width: 0 0 7px;
+  width: 20%;
+
+}
+
+
